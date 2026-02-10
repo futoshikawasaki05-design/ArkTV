@@ -5,7 +5,7 @@
   {"name": "Trans7", "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8"},
   {"name": "Trans TV", "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8"},
   {"name": "CNN Indonesia", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8"},
-  {"name": "GTV", "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"},
+  {"name": "GTV", "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd"},
   {"name": "MNC TV", "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"},
   {"name": "RCTI", "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"},
   {"name": "SCTV", "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd"},
